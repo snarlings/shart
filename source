@@ -50,7 +50,7 @@ Header.BorderSizePixel = 0
 Header.Position = UDim2.new(0.0549645387, 0, 0, 0)
 Header.Size = UDim2.new(0, 409, 0, 36)
 Header.Font = Enum.Font.SciFi
-Header.Text = "Scripts"
+Header.Text = "scripts"
 Header.TextColor3 = Color3.new(0.333333, 1, 1)
 Header.TextSize = 14
 
